@@ -1,0 +1,1 @@
+srcds.exe -game csgo -console -usercon -maxplayers_override 10 -tickrate 64 +map de_dust2 -port 27015 +game_type 0 +game_mode 0 -secure +sv_lan 0 -nohltv -nobots
